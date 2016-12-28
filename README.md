@@ -1,5 +1,9 @@
 # surbtc-sellbot
 
+## Requirements
+    python3
+    python3-venv (recomended)
+
 ## Usage
 
 ### Setup:
