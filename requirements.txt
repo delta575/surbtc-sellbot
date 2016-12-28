@@ -1,0 +1,1 @@
+-e git+https://github.com/delta575/python-surbtc-api.git#egg=python-surbtc-api
